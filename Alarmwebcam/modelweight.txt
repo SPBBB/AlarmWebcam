@@ -1,6 +1,0 @@
-follow the default setting of teachable machine
-epoch: 50
-batch size: 16
-learning late: 0.001
-Model: neural network
-Optimizer: SGD
